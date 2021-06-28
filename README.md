@@ -5,8 +5,11 @@ This repository contains all the code written in the elaboration of the final pr
 The project goal was the application of data science techniques to discover information in two distinct problems (datasets). It was expected that we explored the datasets and adequately select and learn models suited for the data. Additionally, we should criticize the results achieved, hypothesize causes for the limited performance of certain models and identify opportunities to improve the mining process in a final succinct report.
 
 Project Collaborators:
+
 -André Patrício - https://github.com/Andrempp
+
 -Bernardo Santos - https://github.com/BSantosCoding
+
 -Diogo Viegas 
 
 The datasets used are:
